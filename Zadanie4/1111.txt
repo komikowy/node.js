@@ -1,0 +1,6 @@
+Numer albumu: 1111
+Imię: Andrzej
+Nazwisko: Marian
+Płeć: other
+Wiek: 18
+Kierunek: aeh
