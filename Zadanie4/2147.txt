@@ -1,0 +1,6 @@
+Numer albumu: 2147
+Imię: Jan
+Nazwisko: Kowal
+Płeć: male
+Wiek: 17
+Kierunek: AEH
